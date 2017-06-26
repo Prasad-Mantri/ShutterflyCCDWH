@@ -1,0 +1,4 @@
+[{"type": "CUSTOMER", "verb": "UPDATE", "key": "44f55c7d8f42", "event_time": "2016-04-06T12:50:46.384Z", "last_name": "Smith", "adr_city": "Middletown", "adr_state": "CA"},
+{"type": "SITE_VISIT", "verb": "NEW", "key": "ac05e815502f", "event_time": "2017-02-06T12:55:52.041Z", "customer_id": "44f55c7d8f42", "tags": [{"some key": "some value"}]},
+{"type": "IMAGE", "verb": "UPLOAD", "key": "d8ede43b1d9f", "event_time": "2017-02-06T12:57:12.344Z", "customer_id": "44f55c7d8f42", "camera_make": "Canon", "camera_model": "EOS 80D"},
+{"type": "ORDER", "verb": "NEW", "key": "68d84e5d1a43", "event_time": "2017-03-06T01:30:55.555Z", "customer_id": "44f55c7d8f42", "total_amount": "5.40 USD"}]
